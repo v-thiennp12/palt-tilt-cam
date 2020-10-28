@@ -12,7 +12,7 @@ This project is realized in collaboration with **Clément COSTE, **one of my col
 
 <img src="mono_face_GIF1.gif" alt="" style="width: 700px;"/>
 <img src="https://cdn-images-1.medium.com/max/2000/1*tsLlWWJIDsneC0m_N0uGXw.gif" alt="" style="width: 700px;"/>
-[](https://cdn-images-1.medium.com/max/2000/1*tsLlWWJIDsneC0m_N0uGXw.gif)
+![](https://cdn-images-1.medium.com/max/2000/1*tsLlWWJIDsneC0m_N0uGXw.gif)
 
 ## Part 1 — Build List
 
