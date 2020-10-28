@@ -112,9 +112,10 @@ It’s really funny for a demo with my colleagues. But, the fact to add theses f
 ![](http://cdn-images-1.medium.com/max/2000/1*YwCqzNgzisQ7JGnDbYISjQ.gif)
 
 >  The code : you can found all codes in my github repos  
->  **cam_pantiltcontrol.py** is the main script
+>  **cam_pantiltcontrol.py** is the main script  
 [**nguyenrobot/palt-tilt-cam**
-*Use OpenCV for Face Detection then Pilote a Pi Camera with 2 servos in order to keep the tracked-face always in the…*github.com](https://github.com/nguyenrobot/palt-tilt-cam)
+*Use OpenCV for Face Detection then Pilote a Pi Camera with 2 servos in order to keep the tracked-face always in the…*github.com]  
+(https://github.com/nguyenrobot/palt-tilt-cam)
 
 ## Part 5— 3D-printing of Raspberry casing
 
