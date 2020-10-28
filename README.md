@@ -110,7 +110,7 @@ It’s really funny for a demo with my colleagues. But, the fact to add theses f
 **CascadeClassifier **can find multi faces in a frame, but I limited the PD controller to just the case that one face 1 face is detected. It’s your turn to improve this. An idea is to calculate a centroid of detected faces.
 
 <img src="multi_face_GIF1.gif" alt="" style="width: 700px;"/>
-[<img src="https://cdn-images-1.medium.com/max/2000/1*YwCqzNgzisQ7JGnDbYISjQ.gif" alt="" style="width: 700px;"/>]
+[<img src="http://cdn-images-1.medium.com/max/2000/1*YwCqzNgzisQ7JGnDbYISjQ.gif" alt="" style="width: 700px;">]
 ![](http://cdn-images-1.medium.com/max/2000/1*YwCqzNgzisQ7JGnDbYISjQ.gif)
 
 >  The code : you can found all codes in my github repos  
